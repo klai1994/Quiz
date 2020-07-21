@@ -1,0 +1,19 @@
+C:\Users\Kevin\Downloads\Code\C#\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Kevin\Downloads\Code\C#\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\Kevin\Downloads\Code\C#\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Kevin\Downloads\Code\C#\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Downloads\Code\C#\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\Kevin\Downloads\Code\C#\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\Kevin\Downloads\Code\C#\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+C:\Users\Kevin\Downloads\Code\C#\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\Kevin\Downloads\Code\C#\Quiz\Quiz\obj\Debug\Quiz.pdb
+F:\.Personal Data\Code\C#\Quiz\Quiz\bin\Debug\Quiz.exe.config
+F:\.Personal Data\Code\C#\Quiz\Quiz\bin\Debug\Quiz.exe
+F:\.Personal Data\Code\C#\Quiz\Quiz\bin\Debug\Quiz.pdb
+F:\.Personal Data\Code\C#\Quiz\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+F:\.Personal Data\Code\C#\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+F:\.Personal Data\Code\C#\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+F:\.Personal Data\Code\C#\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+F:\.Personal Data\Code\C#\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+F:\.Personal Data\Code\C#\Quiz\Quiz\obj\Debug\Quiz.exe
+F:\.Personal Data\Code\C#\Quiz\Quiz\obj\Debug\Quiz.pdb
